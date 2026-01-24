@@ -2,9 +2,9 @@ import { Button } from "@/components/ui/button";
 
 export default function HomePage() {
   return (
-    <main>
+    <div>
       <h1>Home Page</h1>
       <Button>Button Here</Button>
-    </main>
+    </div>
   )
 }
